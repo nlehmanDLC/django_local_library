@@ -1,5 +1,7 @@
 *.pyc
 *.swp
+*.bak
 local_settings.py
 .coverage
 htmlcov/
+*.sqlite3
